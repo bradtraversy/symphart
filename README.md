@@ -17,6 +17,10 @@ php bin/console doctrine:migrations:migrate
 
 # Build for production
 npm run build
+
+# Run symfony server 
+symfony server:start
+
 ```
 
 ## App Info
